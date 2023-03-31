@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+# This can be customized
+# github_workshop.Rproj would cause it to ignore that project
+# .tiff would cause it to ignore all .tiff files (which are usually large)
+
